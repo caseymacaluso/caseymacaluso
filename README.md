@@ -1,7 +1,6 @@
 - 👋 My name is Casey Macaluso (@caseymacaluso)
 - 👀 I love writing code (shocking, I know). I have experience writing code in Javascript, Python, R, SQL and Java!
-- 🌱 Right now, I'm learning more of the ins and outs of Python! I just finished doing some data analysis and visualization mini-projects,
-      and I'm about to jump into machine learning topics, which I already have some familiarity with from my experience with R.
+- 💻 Right now I'm learning/re-learning writing code in React. Front end development has always been very interesting to me, so I like to learn about that as much as I can!
 - 📫 macaluso.casey@gmail.com is the best way to reach me if you have any questions about anything.
 
 Thanks for stopping by :)
