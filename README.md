@@ -6,7 +6,7 @@
 Thanks for stopping by :)
 
 
-[![Casey's GitHub stats](https://github-readme-stats.vercel.app/api?username=caseymacaluso&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Casey's GitHub stats](https://github-readme-stats.vercel.app/api?username=caseymacaluso&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 caseymacaluso/caseymacaluso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
