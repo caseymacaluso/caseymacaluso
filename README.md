@@ -1,6 +1,6 @@
 - 👋 My name is Casey Macaluso (@caseymacaluso)
-- 👀 I love writing code (shocking, I know). I have experience writing code in JavaScript, HTML, CSS, Python, R and SQL!
-- 💻 Currently writing code in SQL & Python. Just finished a Udemy course on React development (checkout my [Nebula Clothing](https://github.com/caseymacaluso/nebula-clothing "Nebula Clothing - Github") project!)
+- 👀 I'm an analyst with a background in Python, SQL, R and Excel. I also have some experience on the front end, writing code in Javascript and using the React library.
+- 💻 Currently working on a [Python project](https://github.com/caseymacaluso/python-ds-ml) that covers data analysis and machine learning
 - 📫 macaluso.casey@gmail.com is the best way to reach me if you have any questions about anything.
 
 Thanks for stopping by :)
